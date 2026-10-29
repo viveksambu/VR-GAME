@@ -12,6 +12,7 @@
 # Android / Native builds & backups
 .utmp/
 *.apk
+!vr_vivek.apk
 *.aab
 *.obb
 *_BackUpThisFolder_ButDontShipItWithYourGame/
